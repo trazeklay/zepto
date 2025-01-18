@@ -90,7 +90,7 @@ This project is licensed under the **MIT License**.
 
 👨‍💻 Contributors
 
-- *Clément TROMPIER* - Creator & Maintainer
+- **[Clément TROMPIER](https://github.com/trazeklay)** - Creator & Maintainer
 
 ---
 
