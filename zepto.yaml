@@ -1,0 +1,10 @@
+scripts:
+  db:
+    install: "echo 'install db'"
+    start: "echo 'start db'"
+    stop: "echo 'stop db'"
+  api:
+    install: "echo 'install api'"
+    start: "echo 'start api'"
+    stop: "echo 'stop api'"
+  

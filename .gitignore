@@ -1,0 +1,30 @@
+# Compiled binaries
+zepto
+zepto.exe
+
+# Object files
+*.o
+
+# Dependency files
+*.d
+
+# Debug and core dumps
+*.out
+*.log
+*.core
+*.stackdump
+
+# Editor & IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.bak
+*~
+
+# macOS system files
+.DS_Store
+
+# Linux system files
+*.pid
+*.lock
